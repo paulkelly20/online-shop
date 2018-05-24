@@ -9,6 +9,9 @@ public class Till {
     private int id;
     private double cash;
 
+    public Till() {
+    }
+
     public Till(double cash) {
         this.cash = cash;
     }
