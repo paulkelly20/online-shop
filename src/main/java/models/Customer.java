@@ -70,4 +70,18 @@ public class Customer {
     public void setProducts(List<Product> products) {
         this.products = products;
     }
+
+    public int countProducts() {
+        return products.size();
+    }
+
+    public void addProduct(Product product) {
+        this.products.add(product);
+
+    }
+
+    public void removeProduct(Product product) {
+        this.products.remove(product);
+    }
+
 }
