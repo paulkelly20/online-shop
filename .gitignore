@@ -36,3 +36,10 @@ out/
 target/
 .idea_modules/
 .gitignore
+.idea/misc.xml
+src/main/java/controllers/
+src/main/java/db/
+src/main/resources/templates/checkout/
+src/main/resources/templates/customers/
+src/main/resources/templates/products/
+src/test/
