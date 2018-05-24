@@ -1,10 +1,8 @@
 package models;
 
 import javax.persistence.*;
-import java.util.Calendar;
 
 
-@Entity
 @Inheritance(strategy = InheritanceType.JOINED)
 public abstract class Product {
     private int id;
