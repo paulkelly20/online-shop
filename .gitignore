@@ -30,6 +30,8 @@
 .idea/**/sqlDataSources.xml
 .idea/**/dynamic.xml
 .idea/**/uiDesigner.xml
+.idea/workspace.xml
+
 
 # IntelliJ
 out/
